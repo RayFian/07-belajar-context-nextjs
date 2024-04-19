@@ -45,3 +45,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Praktikum 1
 ![alt text](image.png)
 
+We could create sections and also parts using specified components and combine it into 1 big part into template by editing the smaller component parts
+
+### Soal 2
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+Before the result appear like the pictures above error appear said that we need to import components from mycontext.tsx. The error could be fixed by typing "use client"; at page.tsx file.
+
