@@ -63,3 +63,8 @@ Before the result appear like the pictures above error appear said that we need 
 
 ### Soal 4
 ![alt text](image-7.png)
+
+## Praktikum 3
+![alt text](image-8.png)
+
+The navigation button work well and navigate through the pages without any problem.
