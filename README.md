@@ -58,3 +58,8 @@ We could create sections and also parts using specified components and combine i
 
 Before the result appear like the pictures above error appear said that we need to import components from mycontext.tsx. The error could be fixed by typing "use client"; at page.tsx file.
 
+## Praktikum 2
+![alt text](image-6.png)
+
+### Soal 4
+![alt text](image-7.png)
